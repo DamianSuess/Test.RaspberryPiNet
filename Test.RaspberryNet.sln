@@ -6,6 +6,9 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5BBEB846-2945-4C5F-91B4-771EEC14DCB1}"
 	ProjectSection(SolutionItems) = preProject
 		.editorconfig = .editorconfig
+		LICENSE = LICENSE
+		readme.md = readme.md
+		Test.RaspberryNet.sln.licenseheader = Test.RaspberryNet.sln.licenseheader
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.RPiConsoleNet", "Test.RPiConsoleNet\Test.RPiConsoleNet.csproj", "{3FC0863B-677D-40DC-9CB7-745ABF872D39}"

@@ -1,4 +1,4 @@
-﻿namespace Test.RaspberryPiNet
+﻿namespace Test.RPiWinNet
 {
   partial class Form1
   {
